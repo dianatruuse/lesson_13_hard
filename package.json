@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/dianatruuse/lesson_13_hard/issues"
   },
-  "homepage": "https://github.com/dianatruuse/lesson_13_hard#readme"
+  "homepage": "https://github.com/dianatruuse/lesson_13_hard#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
 }
