@@ -18,5 +18,8 @@
   "homepage": "https://github.com/dianatruuse/lesson_13_hard#readme",
   "devDependencies": {
     "gulp": "^4.0.2"
+  },
+  "dependencies": {
+    "browser-sync": "^2.26.7"
   }
 }
